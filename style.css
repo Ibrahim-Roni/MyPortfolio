@@ -427,7 +427,7 @@ span {
 
 .skills {
     min-height: auto;
-    padding: 7rem;
+    padding: 5rem;
     background: var(--second-bg-color);
 }
 
@@ -791,7 +791,7 @@ span {
         font-size: 5.2rem;
     }
 
-    .education .skills {
+    .education {
         padding: 10rem 4% 5rem 5%;
     }
 
