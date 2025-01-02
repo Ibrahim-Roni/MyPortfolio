@@ -427,7 +427,7 @@ span {
 
 .skills {
     min-height: auto;
-    padding: 7rem;
+    padding: 5rem;
     background: var(--second-bg-color);
 }
 
@@ -712,7 +712,7 @@ span {
         padding: 10rem 4% 2rem;
     }
 
-    .hone {
+    .home {
         padding: 0 4%;
     }
 
