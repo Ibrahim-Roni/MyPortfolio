@@ -772,6 +772,10 @@ span {
         flex-direction: column;
     }
 
+    .skills-colum {
+        max-width: 70%;
+    }
+
     .home-sci {
         width: 160px;
     }
@@ -793,6 +797,10 @@ span {
 
     .education {
         padding: 10rem 4% 5rem 5%;
+    }
+
+    .skills-colum {
+        max-width: 90%;
     }
 
     .contact form .input-box .input-field {
